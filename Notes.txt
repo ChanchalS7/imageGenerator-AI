@@ -1,0 +1,36 @@
+##Topics
+*What LLMs are
+* Large Language model:2021 ->
+	* 175 billion parameters
+	* 2021 : scrapped
+
+*Options
+	*Text to text answer :
+			Chat GPT : OPENAI
+			Bard : Google
+	* Text to Image Generators :
+			* Midjourney 
+			* DALEE : OPENAI
+* Project
+	Dalee : model
+	Image Generator : React
+##Usecase
+
+* You want to create brand image creator	
+* Thumbnail
+
+##Vite
+
+## React frontend framework
+
+
+##React
+	*App.jsx
+	
+	*UI
+		html,css,js
+
+	*Add functionality
+		
+
+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			
